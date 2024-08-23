@@ -1,18 +1,18 @@
 {
     "securityDailyTradeDto": {
         "securityId": "236",
-        "openPrice": 664.5,
-        "highPrice": 695.0,
-        "lowPrice": 657.0,
-        "totalTradeQuantity": 141461,
-        "totalTrades": 732,
-        "lastTradedPrice": 657.0,
-        "previousClose": 678.0,
-        "businessDate": "2024-06-25",
-        "closePrice": 657.0,
+        "openPrice": 657.0,
+        "highPrice": 672.0,
+        "lowPrice": 641.2,
+        "totalTradeQuantity": 134874,
+        "totalTrades": 887,
+        "lastTradedPrice": 642.0,
+        "previousClose": 657.0,
+        "businessDate": "2024-06-26",
+        "closePrice": 642.0,
         "fiftyTwoWeekHigh": 795.0,
         "fiftyTwoWeekLow": 320.2,
-        "lastUpdatedDateTime": "2024-06-25T14:59:59.380295"
+        "lastUpdatedDateTime": "2024-06-26T14:59:59.431163"
     },
     "security": {
         "id": 236,
@@ -77,7 +77,7 @@
     "stockListedShares": 10825567.0,
     "paidUpCapital": 1082556672.0,
     "issuedCapital": 1082556672.0,
-    "marketCapitalization": 7112397519.0,
+    "marketCapitalization": 6950014014.0,
     "publicShares": 4330227,
     "publicPercentage": 40.0,
     "promoterShares": 6495340.0,

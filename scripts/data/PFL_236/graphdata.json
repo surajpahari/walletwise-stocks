@@ -1,16 +1,5 @@
 [
     {
-        "businessDate": "2023-06-26",
-        "openPrice": 404.0,
-        "highPrice": 412.0,
-        "lowPrice": 400.0,
-        "previousDayClosePrice": 396.5,
-        "fiftyTwoWeekHigh": 470.0,
-        "lastTradedPrice": 404.0,
-        "totalTradedQuantity": 36455,
-        "closePrice": 404.0
-    },
-    {
         "businessDate": "2023-06-27",
         "openPrice": 411.0,
         "highPrice": 420.0,
@@ -2506,5 +2495,16 @@
         "lastTradedPrice": 678.0,
         "totalTradedQuantity": 238935,
         "closePrice": 678.0
+    },
+    {
+        "businessDate": "2024-06-25",
+        "openPrice": 664.5,
+        "highPrice": 695.0,
+        "lowPrice": 657.0,
+        "previousDayClosePrice": 678.0,
+        "fiftyTwoWeekHigh": 795.0,
+        "lastTradedPrice": 657.0,
+        "totalTradedQuantity": 141461,
+        "closePrice": 657.0
     }
 ]
